@@ -1,5 +1,5 @@
 # 700741122-ASSIGNMENT8-SAI-VARUN-THABETI
-
+Link for the recording: https://drive.google.com/file/d/1UaqIOt99hHSLQ8ON4x_1Tl2sKWoPpB12/view?usp=drive_link
 Lesson Overview:
 In this lesson, we are going to discuss types and applications of Autoencoder.
 Programming elements:
